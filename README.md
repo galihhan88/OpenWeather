@@ -1,6 +1,7 @@
 # OpenWeather
 
 Project Structure:
+
 Profiles: Stores global variables like API Key, Base URL, and Coordinates (lat/lon).
 Object Repository: Contains REST API objects (Get Weather and Req2 Air Polution) with verification scripts.
 Test Cases: TC01_VerifyWeatherJakarta script that triggers the API requests and performs validations.
