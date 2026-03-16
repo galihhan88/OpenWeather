@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_VerifyWeatherJakarta</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30a3172b-ca28-4ef3-81aa-be83203cd13a</testCaseGuid>
+</TestCaseEntity>
